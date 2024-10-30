@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CookieLaw.eu\n"
+"POT-Creation-Date: 2018-06-14 12:00+0200\n"
+"PO-Revision-Date: 2018-06-14 12:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: cookielaw-eu.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin.php:8 templates/admin.php:8
+msgid "CookieLaw.eu settings"
+msgstr "Impostazioni CookieLaw.eu"
+
+#: admin.php:15 templates/admin.php:15
+msgid "API Key"
+msgstr "Chiave API"
+
+#: admin.php:18 templates/admin.php:18
+#, php-format
+msgid ""
+"Please go to <a href='%s' target='_blank'>Cookielaw.eu</a> to obtain a new "
+"API key."
+msgstr ""
+"Vai su <a href='%s' target='_blank'>Cookielaw.eu</a> per ottenere una nuova "
+"chiave API."
+
+#: admin.php:22 templates/admin.php:22
+msgid "Script position"
+msgstr "Posizione dello script"
+
+#: admin.php:25 templates/admin.php:25
+msgid "WP Head"
+msgstr "WP Head"
+
+#: admin.php:26 templates/admin.php:26
+msgid "WP Footer"
+msgstr "WP Footer"
+
+#: admin.php:31 templates/admin.php:31
+msgid "Language"
+msgstr "Lingua"
+
+#: admin.php:34 templates/admin.php:34
+msgid "Based on user browser"
+msgstr "Basato sul browser dell'utente"
+
+#: admin.php:35 templates/admin.php:35
+msgid "Based on Wordpress locale"
+msgstr "Basato sulla lingua di Wordpress"
+
+#: cookielaw-eu.php:71
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: cookielaw-eu.php:72
+msgid "More info"
+msgstr "Maggiori informazioni"
+
+#. Plugin Name of the plugin/theme
+#: cookielaw-eu.php:87
+msgid "CookieLaw.eu"
+msgstr "CookieLaw.eu"
+
+#: cookielaw-eu.php:100
+msgid ""
+"CookieLaw.eu: No API key is defined. Go to Wordpress settings to set it."
+msgstr ""
+"CookieLaw.eu: Nessuna chiave API è definita. Vai nelle impostazioni di "
+"WordPress per impostarla."
+
+#: includes/extensions.php:29
+msgid "Embedded cookie policy"
+msgstr "Cookie policy incoroprata"
+
+#: includes/extensions.php:32
+msgid "Embed your generated cookie policy by Cookielaw.eu"
+msgstr "Incorpora la cookie policy generata da Cookielaw.eu"
+
+#: includes/extensions.php:33
+msgid "Cookielaw.eu"
+msgstr "Cookielaw.eu"
+
+#: templates/admin.php:37
+msgid ""
+"Defines which language should use Cookielaw.eu service for displaying the "
+"consent windows"
+msgstr ""
+"Definisce quale lingua deve usare il servizio di Cookielaw.eu per la "
+"visualizzazione delle finestre di consenso"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.cookielaw.eu"
+msgstr "https://www.cookielaw.eu"
+
+#. Description of the plugin/theme
+msgid ""
+"The Cookielaw.eu WordPress plugin helps you to install on your site the "
+"CookieLaw.eu script, a service that helps you manage and classify your "
+"site’s cookies in compliance with GDPR regulation."
+msgstr ""
+"Il plugin WordPress di Cookielaw.eu ti aiuta ad installare lo script di "
+"CookieLaw.eu, un servizio che ti aiuta a gestire e classificare i cookie del "
+"tuo sito in conformità al regolamento GDPR."
+
+#. Author of the plugin/theme
+msgid "Swypelab SRL"
+msgstr "Swypelab SRL"
+
+#. Author URI of the plugin/theme
+msgid "https://www.swypelab.com"
+msgstr "https://www.swypelab.com"
